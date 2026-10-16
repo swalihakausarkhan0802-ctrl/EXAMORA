@@ -1,0 +1,8 @@
+{
+  "name": "EXAMORA - Online Examination Portal",
+  "description": "A calm, thoughtful EdTech online examination portal. Think clearly. Answer boldly. Go beyond.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
